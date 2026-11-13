@@ -1,14 +1,14 @@
 {
   "version": "1.0.1",
-  "published_at": "2026-11-13T08:08:49.530Z",
+  "published_at": "2026-11-13T08:16:21.835Z",
   "mandatory": false,
   "notes": "Versión de prueba del actualizador de Solum Gestión.",
   "min_version": "",
   "windows": {
     "url": "https://github.com/Rene-Marcelo-Ardaya/solum-gestion-releases/releases/download/v1.0.1/Solum-Gestion-Setup-1.0.1.exe",
     "filename": "Solum-Gestion-Setup-1.0.1.exe",
-    "size": 80444191,
-    "sha256": "a6dd2567fb9af9c8f8e6ae6e286c588cf7bda6047bc5a17b605918cb3c0185a7"
+    "size": 80443837,
+    "sha256": "f6439a6c09f89992b743990fd1f5b570dabe590446bf61093e204b6da220df7c"
   },
   "android": {
     "available": false,
