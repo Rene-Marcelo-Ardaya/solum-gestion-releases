@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "published_at": "2026-11-13T07:58:46.549Z",
+  "mandatory": false,
+  "notes": "Solum Gestión 1.0.0",
+  "min_version": "",
+  "windows": {
+    "url": "https://github.com/Rene-Marcelo-Ardaya/solum-gestion-releases/releases/download/v1.0.0/Solum-Gestion-Setup-1.0.0.exe",
+    "filename": "Solum-Gestion-Setup-1.0.0.exe",
+    "size": 80443992,
+    "sha256": "a3477d72ac5c67f2a6d5a5ed03844f5f61e91c4f132ff622c233b299264975e4"
+  },
+  "android": {
+    "available": false,
+    "label": "Próximamente"
+  }
+}
